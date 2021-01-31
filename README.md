@@ -50,7 +50,7 @@ When you run `learn` you might see failing tests even though your program seemin
    Failure/Error: load './lib/welcome.rb'
      #<IO:0x007fa2b28325a0> received :puts with unexpected arguments
        expected: ("Welcome to Tic Tac Toe!")
-            got: ("Welcome to Tic Tac Toe")
+            got: ("Welcome to Tic Tac Toe!")
    # ./lib/welcome.rb:4:in `puts'
 ```
 
